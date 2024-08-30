@@ -1,0 +1,14 @@
+matplotlib
+numpy
+scikit-learn
+scipy
+urllib3
+ipyvolume
+jupyter
+ipython_genutils==0.1.0
+open3d
+tqdm
+pygeodesic
+libigl
+vtk
+gdist
