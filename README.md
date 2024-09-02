@@ -1,6 +1,8 @@
-# PointcloudQualityAssessment
+# Pointcloud Quality Assessment
 
 This is the official repository for our proposed PCQA method, which can be integrated into industrial 3D automatic scanning, providing detailed quality scores for acquired point clouds.
+
+*PS: The alternative link is **leihui6.com/PQA** (which is unavailable now)*
 
 ## Principle
 
