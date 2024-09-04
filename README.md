@@ -2,7 +2,7 @@
 
 This is the official repository for our proposed PCQA method, which can be integrated into industrial 3D automatic scanning, providing detailed quality scores for acquired point clouds.
 
-*PS: The alternative link is **leihui6.com/PQA** (which is unavailable now)*
+Paper link: [here](https://doi.org/10.1016/j.rcim.2024.102863)
 
 ## Principle
 
@@ -71,6 +71,14 @@ We would like to thank [DeepFit](https://github.com/sitzikbs/DeepFit). Some part
 
 If you find this work helpful, please consider citing us
 ```
-
+@article{LI2025102863,
+title = {A robust assessment method of point cloud quality for enhancing 3D robotic scanning},
+journal = {Robotics and Computer-Integrated Manufacturing},
+volume = {92},
+pages = {102863},
+year = {2025},
+issn = {0736-5845},
+author = {Leihui Li and Xuping Zhang},
+}
 ```
 For any questions about this project, feel free to contact me at `leihui@mpe.au.dk` or open an issue in this repository.
